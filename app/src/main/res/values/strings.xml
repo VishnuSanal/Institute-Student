@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">Institute</string>
+
+    <string name="sign_in">Sign In</string>
+    <string name="student_id">Student ID</string>
+    <string name="password">Password</string>
+    <string name="apply_to_a_course">Apply to a Course</string>
+
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="course">Course</string>
+
+    <string name="version">v1.0.0</string>
+    <string name="copyright"> </string>
+    <string name="write_your_feedback">Write Your Feedback</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
 </resources>
